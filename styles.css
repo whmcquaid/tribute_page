@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+}
+#main{
+    background-color: black;
+    font-family: Arial, helvetica, sans serif;
+    color: white;
+  }
+  #title{
+    font-family: Impact, Arial, Helvetica, serif;
+    font-size: 6vw;
+    position: absolute;
+    top: 10px;
+    left: 90px;
+  }
+  
+  #img-div{
+    position:relative;
+    text-align: center;
+  }
+  #img-caption{
+    text-align: center;
+    font-size: 14px;
+  }
+  #tribute-info{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 18px;
+  }
+
+
+  a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
