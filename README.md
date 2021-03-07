@@ -1,4 +1,4 @@
-Freecodecamp.org tribute page
+Project Built with HTML and CSS
 
 by William McQuaid
 
